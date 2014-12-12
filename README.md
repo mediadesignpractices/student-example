@@ -1,13 +1,15 @@
 student-example
 ===============
 
-Recommended format for README.md used in repos hosted in the MDP student group.
-
 **Author(s):** Author Name  
 **Year:** 2014  
 *below is optional*  
 **Class:** Class Name (if applicable)  
 **Instructor:** Instructor name  
+
+## Synopsis
+
+At the top of the file there should be a short introduction and/ or overview that explains **what** the project is.
 
 
 ## Motivation
