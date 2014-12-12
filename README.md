@@ -1,4 +1,4 @@
-student-example
+student example
 ===============
 
 **Author(s):** Author Name  
