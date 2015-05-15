@@ -28,8 +28,7 @@ Provide clear examples and explanations regarding how to get the project.
 
 Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.  List who helped you with the project or code that you borrowed from other developers/designers, for example:
 
-Much of this README.md comes from here:
-[https://gist.github.com/jxson/1784669](https://gist.github.com/jxson/1784669)
+Much of this README.md comes from [here](https://gist.github.com/jxson/1784669).
 
 ## License
 
